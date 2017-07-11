@@ -1,0 +1,24 @@
+p {
+  color: blue;
+}
+
+h1{
+  background-color: #4F45CF;
+  display: flex;
+  justify-content:
+  space-between;
+  align-items: center;
+}
+
+#pic {
+  padding-left: 50px;
+  padding-top: 30px;
+  background-color: #45CF52;
+}
+#pic0{
+  padding-left: 50px;
+  padding-bottom: 100px;
+}
+
+#me{
+}
